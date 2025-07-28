@@ -1,0 +1,120 @@
+species,diet,body size,water column position,depth range,trophic level,Gregariousness
+Abudefduf saxatilis,Invertivore,11.65604065,benthopelagic ,20,3.8,smallg
+Acanthostracion polygonius,Invertivore,24.5177,benthopelagic ,77,2,sol
+Acanthostracion quadricornis,Invertivore,38.3038,benthopelagic ,20,2.7,sol
+Acanthurus bahianus,Herbivore,14.22330868,benthopelagic ,78,2.4,medg
+Acanthurus chirurgus,Herbivore,15.33190851,benthopelagic ,23,2.1,medg
+Acanthurus coeruleus,Herbivore,15.40224247,benthopelagic ,48,2.2,medg
+Aluterus scriptus,Invertivore,46.60222857,benthopelagic ,117,2.8,sol
+Anisotremus surinamensis,Invertivore,30.47539,benthopelagic ,70,3.6,smallg
+Anisotremus virginicus,Invertivore,23.2279,benthopelagic ,68,3.6,smallg
+Apsilus dentatus,Carnivore,26.9346,benthopelagic ,260,4.1,smallg
+Aulostomus maculatus,Carnivore,37.03073267,benthopelagic ,23,4.3,smallg
+Balistes vetula,Invertivore,39.6865,benthopelagic ,273,3.8,sol
+Bodianus rufus,Invertivore,17.67013966,benthopelagic ,69,3.7,sol
+Calamus bajonado,Invertivore,43.9431,pelagic,197,3.5,medg
+Calamus calamus,Invertivore,19.29757203,pelagic,74,3.5,medg
+Cantherhines pullus,Omnivore,20.057175,benthopelagic ,47,2.6,sol
+Canthidermis sufflamen,Invertivore,35.57866667,benthopelagic ,55,3.5,smallg
+Canthigaster rostrata,Omnivore,4.200599816,benthopelagic ,39,3.3,smallg
+Caranx bartholomaei,Piscivore,18.48997845,pelagic,50,4.5,largeg
+Caranx crysos,Carnivore,9.797214706,pelagic,100,4.1,largeg
+Caranx ruber,Carnivore,19.35636337,pelagic,35,4.3,largeg
+Cephalopholis cruentata,Piscivore,15.03167908,benthopelagic ,170,4.3,sol
+Cephalopholis fulva,Carnivore,18.1748745,benthopelagic ,149,4.1,sol
+Chaetodon capistratus,Invertivore,8.253575696,benthopelagic ,18,3.4,pair
+Chaetodon ocellatus,Invertivore,11.15558221,benthopelagic ,30,3.7,pair
+Chaetodon sedentarius,Invertivore,7.104216667,benthopelagic ,25,3.9,pair
+Chaetodon striatus,Invertivore,10.90067111,benthopelagic ,67,3.5,pair
+Chromis cyanea,Planktivore,6.055553044,benthopelagic ,57,3.7,medg
+Chromis insolata,Planktivore,5.176366557,benthopelagic ,80,3.4,medg
+Chromis multilineata,Planktivore,8.219063471,benthopelagic ,60,3,largeg
+Chromis scotti,Planktivore,7.039321591,benthopelagic ,101,3.4,smallg
+Clepticus parrae,Planktivore,8.659661052,pelagic,92,3.4,medg
+Diodon hystrix,Invertivore,47.1177,benthopelagic ,48,3.7,sol
+Echeneis neucratoides,Invertivore,25.1287,pelagic,50,3.6,sol
+Epinephelus adscensionis,Carnivore,13.50694774,benthopelagic ,119,3.5,sol
+Epinephelus guttatus,Carnivore,27.5261,benthopelagic ,100,3.8,sol
+Epinephelus striatus,Carnivore,33.0053,benthopelagic ,89,4.1,sol
+Equetus lanceolatus,Invertivore,12.1639,benthopelagic ,50,3.4,smallg
+Equetus punctatus,Invertivore,9.088277778,benthopelagic ,27,3.5,smallg
+Gramma loreto,Invertivore,4.189795013,benthopelagic ,39,3.3,smallg
+Gramma melacara,Invertivore,6.009756122,benthopelagic ,40,3.5,smallg
+Gymnothorax funebris,Carnivore,46.0264,benthopelagic ,25,4,sol
+Haemulon album,Invertivore,27.4193,benthopelagic ,40,3.3,pair
+Haemulon aurolineatum,Omnivore,13.69056343,benthopelagic ,40,4.4,largeg
+Haemulon bonariense,Invertivore,17.62728841,benthopelagic ,49,3.5,medg
+Haemulon carbonarium,Invertivore,23.89108844,benthopelagic ,22,3.7,medg
+Haemulon flavolineatum,Invertivore,16.11258865,benthopelagic ,60,3.5,medg
+Haemulon macrostomum,Invertivore,15.65370159,benthopelagic ,20,3.3,medg
+Haemulon parra,Carnivore,14.81265,benthopelagic ,27,3.5,medg
+Haemulon plumierii,Carnivore,20.75955267,benthopelagic ,37,3.8,medg
+Haemulon sciurus,Invertivore,21.12864353,benthopelagic ,30,3.5,medg
+Haemulon vittatum,Planktivore,4.4814,benthopelagic ,35,3.3,largeg
+Halichoeres bivittatus,Invertivore,7.927787373,benthopelagic ,14,3.8,sol
+Halichoeres cyanocephalus,Invertivore,13.14681667,benthopelagic ,30,3.6,sol
+Halichoeres garnoti,Invertivore,7.664859843,benthopelagic ,78,3.7,sol
+Halichoeres maculipinna,Invertivore,6.274656457,benthopelagic ,22,3.3,sol
+Halichoeres pictus,Invertivore,9.095136719,benthopelagic ,20,3.5,sol
+Halichoeres radiatus,Invertivore,16.875475,benthopelagic ,53,3.5,sol
+Holacanthus ciliaris,Invertivore,21.16403088,benthopelagic ,69,3,sol
+Holacanthus tricolor,Invertivore,12.36008124,benthopelagic ,89,3,sol
+Holocentrus adscensionis,Carnivore,15.05544115,benthopelagic ,180,3.1,sol
+Holocentrus rufus,Invertivore,16.07851991,benthopelagic ,32,3.5,sol
+Hypoplectrus aberrans,Invertivore,10.79875,benthopelagic ,12,3.6,sol
+Hypoplectrus gummigutta,Invertivore,11.4,benthopelagic ,44,3.8,sol
+Hypoplectrus indigo,Invertivore,11.21119805,benthopelagic ,42,3.9,sol
+Hypoplectrus nigricans,Invertivore,19.84655,benthopelagic ,10,4,sol
+Hypoplectrus puella,Invertivore,9.277684745,benthopelagic ,20,3.7,sol
+Kyphosus sectatrix,Omnivore,27.86703241,pelagic,29,2,medg
+Kyphosus vaigiensis,Omnivore,30.80531923,pelagic,40,2,medg
+Lachnolaimus maximus,Invertivore,46.24566,benthopelagic ,27,4.2,sol
+Lactophrys bicaudalis,Invertivore,5.3299,benthopelagic ,47,3.2,sol
+Lactophrys trigonus,Invertivore,16.3,benthopelagic ,48,3.3,sol
+Lactophrys triqueter,Invertivore,14.22253412,benthopelagic ,50,3.3,sol
+Lutjanus analis,Carnivore,25.62885556,benthopelagic ,70,3.9,smallg
+Lutjanus apodus,Carnivore,25.7307903,pelagic,61,4.3,smallg
+Lutjanus griseus,Carnivore,23.38602857,benthopelagic ,175,4.2,smallg
+Lutjanus jocu,Carnivore,43.79896312,benthopelagic ,38,4.4,smallg
+Lutjanus mahogoni,Carnivore,21.34774761,benthopelagic ,100,4.3,smallg
+Lutjanus synagris,Carnivore,16.40281596,benthopelagic ,49,3.8,smallg
+Malacanthus plumieri,Invertivore,13.15824615,benthopelagic ,143,3.7,sol
+Melichthys niger,Invertivore,25.16229488,pelagic,75,2.4,largeg
+Microspathodon chrysurus,Herbivore,11.75729838,benthopelagic ,120,2.1,sol
+Mulloidichthys martinicus,Invertivore,19.99220456,benthopelagic ,49,3.2,medg
+Mycteroperca bonaci,Piscivore,27.92875357,benthopelagic ,190,4.3,sol
+Mycteroperca interstitialis,Piscivore,19.305275,benthopelagic ,148,4.5,sol
+Mycteroperca tigris,Piscivore,30.57601667,benthopelagic ,30,4.5,sol
+Mycteroperca venenosa,Piscivore,28.6136,benthopelagic ,135,4.5,sol
+Neoniphon marianus,Invertivore,13.71084422,benthopelagic ,69,3.6,smallg
+Ocyurus chrysurus,Carnivore,19.3688976,pelagic,180,4,smallg
+Pomacanthus arcuatus,Invertivore,27.12718208,benthopelagic ,58,3.2,pair
+Pomacanthus paru,Invertivore,24.69169167,benthopelagic ,97,2.8,pair
+Prognathodes aculeatus,Invertivore,6.477574667,benthopelagic ,99,3.4,sol
+Pseudupeneus maculatus,Invertivore,14.52776312,benthopelagic ,90,3.7,smallg
+Pterois volitans,Carnivore,23.16132708,benthopelagic ,53,4.4,sol
+Sargocentron bullisi,Invertivore,10.960172,benthopelagic ,77,3.5,sol
+Scarus coeruleus,Herbivore,15.6532613,benthopelagic ,22,2,smallg
+Scarus iseri,Herbivore,12.17856673,benthopelagic ,22,2,smallg
+Scarus taeniopterus,Herbivore,10.65310849,benthopelagic ,23,2,smallg
+Scarus vetula,Herbivore,20.73205768,benthopelagic ,22,2,smallg
+Serranus tabacarius,Carnivore,10.88916858,pelagic,66,4.2,sol
+Serranus tigrinus,Invertivore,6.969728571,benthopelagic ,40,3.5,pair
+Serranus tortugarum,Planktivore,4.014734212,benthopelagic ,384,3.1,smallg
+Sparisoma atomarium,Herbivore,13.7133,benthopelagic ,35,2,smallg
+Sparisoma aurofrenatum,Herbivore,16.96083637,benthopelagic ,18,2,smallg
+Sparisoma chrysopterum,Herbivore,23.78516285,benthopelagic ,14,2,smallg
+Sparisoma rubripinne,Herbivore,25.13196804,benthopelagic ,14,2,smallg
+Sparisoma viride,Herbivore,23.66722418,benthopelagic ,47,2,smallg
+Sphyraena barracuda,Piscivore,74.17906667,pelagic,100,4.5,smallg
+Stegastes adustus,Herbivore,9.141630549,benthopelagic ,3,2.5,sol
+Stegastes diencaeus,Herbivore,8.709971726,benthopelagic ,43,2,sol
+Stegastes leucostictus,Herbivore,7.552686909,benthopelagic ,10,3.1,sol
+Stegastes partitus,Planktivore,4.902521979,benthopelagic ,100,2,sol
+Stegastes planifrons,Omnivore,6.157533826,benthopelagic ,29,3.3,sol
+Stegastes variabilis,Omnivore,7.257920784,benthopelagic ,30,3.3,sol
+Synodus intermedius,Piscivore,11.59135,benthopelagic ,327,4.2,sol
+Synodus saurus,Piscivore,16.813675,benthopelagic ,399,4.5,sol
+Synodus synodus,Piscivore,19.3883,benthopelagic ,144,4.2,sol
+Thalassoma bifasciatum,Invertivore,5.806737646,pelagic,40,3.3,medg
+Trachinotus falcatus,Carnivore,63.2825,benthopelagic ,36,4,medg
